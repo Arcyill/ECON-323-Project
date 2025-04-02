@@ -1,0 +1,162 @@
+element,id,geometry,name,name:en,public_transport,operator
+node,172522965,POINT (139.6541635 35.4868754),新子安,Shin-Koyasu,station,東日本旅客鉄道
+node,263267206,POINT (139.5314325 35.3543087),大船,Ōfuna,station,
+node,263271899,POINT (139.6451231 35.4846434),子安,Koyasu,station,京浜急行電鉄
+node,263274493,POINT (139.6399999 35.4814272),神奈川新町,Kanagawa-shimmachi,station,京浜急行電鉄 (Keikyu Corporation)
+node,263274999,POINT (139.6231953 35.4662066),横浜,Yokohama,station,京浜急行電鉄
+node,263275159,POINT (139.6275201 35.4715259),神奈川,Kanagawa,station,
+node,263298361,POINT (139.6112899 35.3225918),六浦,Mutsuura,station,京浜急行電鉄
+node,266084129,POINT (139.5172312 35.5428783),青葉台,Aobadai,station,東京急行電鉄
+node,266084537,POINT (139.5514544 35.5585746),江田,Eda,station,東急電鉄
+node,280474787,POINT (139.5670538 35.510947),鴨居,Kamoi,station,東日本旅客鉄道
+node,280474931,POINT (139.5395328 35.5146971),中山,Nakayama,station,東日本旅客鉄道
+node,280474943,POINT (139.6462868 35.4923774),大口,Oguchi,station,東日本旅客鉄道
+node,280475163,POINT (139.5165915 35.5263056),十日市場,Tokaichiba,station,東日本旅客鉄道
+node,280475974,POINT (139.5997176 35.5086932),小机,Kozukue,station,東日本旅客鉄道
+node,280476284,POINT (139.6333271 35.4779431),東神奈川,Higashi-Kanagawa,station,東日本旅客鉄道
+node,280728684,POINT (139.6359064 35.3421054),海の公園柴口,Uminokoen-Shibaguchi,station,
+node,280728809,POINT (139.640836 35.3408226),八景島,Hakkeijima,station,
+node,280728896,POINT (139.6320353 35.3371661),海の公園南口,Uminokoen-Minamiguchi,station,
+node,280728933,POINT (139.6437391 35.3583376),幸浦,Sachiura,station,
+node,280728953,POINT (139.6485436 35.3496489),福浦,Fukuura,station,
+node,280728980,POINT (139.646291 35.3534255),産業振興センター,Sangyoshinko Center,station,
+node,307882453,POINT (139.4921288 35.5455896),恩田,Onda,station,東急電鉄
+node,355845276,POINT (139.5725338 35.4015158),上永谷,Kaminagaya,station,横浜市交通局
+node,694234836,POINT (139.6298585 35.52186),大倉山,Okurayama,station,東京急行電鉄
+node,823268950,POINT (139.4824589 35.4057234),ゆめが丘,Yumegaoka,station,
+node,823269102,POINT (139.5063488 35.4298971),弥生台,Yayoidai,station,
+node,823269235,POINT (139.526377 35.452353),南万騎が原,Minami-Makigahara,station,
+node,823269267,POINT (139.5218816 35.4394435),緑園都市,Ryokuen-toshi,station,
+node,823269414,POINT (139.4872874 35.4152489),いずみ中央,Izumi-Chuo,station,
+node,823269446,POINT (139.4949527 35.429465),いずみ野,Izumino,station,
+node,823271603,POINT (139.5493487 35.4749432),鶴ケ峰,Tsurugamine,station,
+node,823272153,POINT (139.5025493 35.4678244),三ツ境,Mitsukyo,station,
+node,823272267,POINT (139.5868099 35.4636072),和田町,Wadamachi,station,
+node,823272622,POINT (139.5656561 35.4781303),西谷,Nishiya,station,
+node,823272743,POINT (139.6084809 35.4532879),西横浜,Nishi-Yokohama,station,
+node,823272815,POINT (139.6026308 35.4540049),天王町,Tennocho,station,
+node,823272975,POINT (139.5322366 35.4634653),二俣川,Futamatagawa,station,
+node,823273031,POINT (139.5946998 35.4588276),星川,Hoshikawa,station,
+node,823273057,POINT (139.4825295 35.4703958),瀬谷,Seya,station,
+node,823273226,POINT (139.5800137 35.467719),上星川,Kami-Hoshikawa,station,
+node,823273354,POINT (139.6163426 35.4596654),平沼橋,Hiranuma-bashi,station,相模鉄道
+node,1017449063,POINT (139.6332256 35.4985364),妙蓮寺,Myorenji,station,東京急行電鉄
+node,1218588914,POINT (139.6252491 35.4746815),反町,Tammachi,station,東京急行電鉄
+node,1656240306,POINT (139.5567625 35.4303614),東戸塚,Higashi-Totsuka,station,東日本旅客鉄道
+node,1705352003,POINT (139.5142614 35.4604534),希望ヶ丘,Kibogaoka,station,
+node,2468944535,POINT (139.5782611 35.5534049),センター北,Center Kita,station,横浜市交通局
+node,2550872398,POINT (139.6216115 35.3430205),金沢文庫,Kanazawa-bunko,station,京浜急行電鉄
+node,2550872399,POINT (139.6201441 35.3311864),金沢八景,Kanazawa-Hakkei,station,京浜急行電鉄
+node,2550872475,POINT (139.6669214 35.4952868),生麦,Namamugi,station,京浜急行電鉄
+node,2550872524,POINT (139.6554751 35.4870984),京急新子安,Keikyu Shinkoyasu,station,京浜急行電鉄
+node,2738954706,POINT (139.6310016 35.4510054),桜木町,Sakuragicho,station,
+node,3205664660,POINT (139.6759759 35.5083388),鶴見,Tsurumi,station,東日本旅客鉄道
+node,3213632950,POINT (139.6302732 35.5096856),菊名,Kikuna,station,東日本旅客鉄道
+node,3357596416,POINT (139.4952527 35.5317189),長津田,Nagatsuta,station,東日本旅客鉄道
+node,3585794198,POINT (139.6175837 35.5068329),新横浜,Shin-Yokohama,station,
+node,3708276983,POINT (139.5997021 35.4466889),保土ヶ谷,Hodogaya,station,東日本旅客鉄道
+node,3741112665,POINT (139.6429378 35.3654383),並木中央,Namiki-Chuo,station,
+node,3741112666,POINT (139.642701 35.371877),並木北,Namiki-Kita,station,
+node,3741112672,POINT (139.6501527 35.3439482),市大医学部,Shidai-Igakubu,station,
+node,3741112678,POINT (139.6204103 35.3860018),新杉田,Shin-Sugita,station,
+node,3741112687,POINT (139.6314529 35.3305191),野島公園,Nojimakoen,station,横浜シーサイドライン
+node,3741112689,POINT (139.6208936 35.3315684),金沢八景,Kanazawa-Hakkei,station,横浜シーサイドライン
+node,3995909013,POINT (139.6462837 35.4272033),山手,Yamate,station,東日本旅客鉄道
+node,3995909014,POINT (139.6195735 35.386554),新杉田,Shin-Sugita,station,東日本旅客鉄道
+node,3995909015,POINT (139.5503004 35.3674374),本郷台,Hongodai,station,東日本旅客鉄道
+node,3995909016,POINT (139.6350502 35.4156572),根岸,Negishi,station,東日本旅客鉄道
+node,3995909017,POINT (139.6225042 35.4656854),横浜,Yokohama,station,
+node,3995909018,POINT (139.5964654 35.3786975),洋光台,Yokodai,station,東日本旅客鉄道
+node,3995909019,POINT (139.5766957 35.3752947),港南台,Konandai,station,東日本旅客鉄道
+node,3995909020,POINT (139.6181583 35.4001372),磯子,Isogo,station,東日本旅客鉄道
+node,4011643455,POINT (139.534215 35.4005483),戸塚,Totsuka,station,
+node,5227138561,POINT (139.578635 35.5533142),センター北,Center Kita,station,横浜市交通局
+node,5227138562,POINT (139.5746375 35.5452895),センター南,Center Minami,station,横浜市交通局
+node,5454949004,POINT (139.5911667 35.4011996),港南中央,Konan-chuo,station,
+node,5591788441,POINT (139.5959771 35.4090326),上大岡,Kamiooka,station,横浜市交通局
+node,5591788444,POINT (139.5185313 35.4056591),踊場,Odoriba,,横浜市交通局
+node,5591788445,POINT (139.5509416 35.4024586),舞岡,Maioka,station,横浜市交通局
+node,5591788446,POINT (139.5594212 35.4025885),下永谷,Shimonagaya,station,横浜市交通局
+node,6054866431,POINT (139.6417394 35.3770641),鳥浜,Torihama,station,
+node,6054869524,POINT (139.6332331 35.3801794),南部市場,Nambu-Shijo,station,
+node,6131416650,POINT (139.6468752 35.5534689),日吉,Hiyoshi,station,東急電鉄
+node,6254629280,POINT (139.634683 35.5367416),綱島,Tsunashima,station,東京急行電鉄
+node,6254638463,POINT (139.6313313 35.5103853),菊名,Kikuna,station,東京急行電鉄
+node,6254641022,POINT (139.6279215 35.4896753),白楽,Hakuraku,station,東京急行電鉄
+node,6254645691,POINT (139.6294747 35.4832475),東白楽,Higashi-hakuraku,station,東京急行電鉄
+node,6449745750,POINT (139.6805815 35.5390249),矢向,Yako,station,
+node,6679881387,POINT (139.5861148 35.4812012),羽沢横浜国大,Hazawa yokohama-kokudai,station,相模鉄道;東日本旅客鉄道
+node,6802293266,POINT (139.5412811 35.5513481),市が尾,Ichigao,station,東急電鉄
+node,6802306080,POINT (139.5588739 35.5775269),たまプラーザ,Tama-plaza,station,東急電鉄
+node,6802316527,POINT (139.5534305 35.5686778),あざみ野,Azamino,station,東急電鉄
+node,7047979337,POINT (139.6427467 35.4392259),石川町,Ishikawacho,station,東日本旅客鉄道
+node,7048013177,POINT (139.6360365 35.4440822),関内,Kannai,station,東日本旅客鉄道
+node,7096836747,POINT (139.527979 35.5434977),藤が丘,Fujigaoka,station,東京急行電鉄
+node,7096971520,POINT (139.5049076 35.5362568),田奈,Tana,station,東京急行電鉄
+node,7601088838,POINT (139.5896008 35.5353094),仲町台,Nakamachidai,station,横浜市交通局
+node,7601120732,POINT (139.5001991 35.4142695),立場,Tateba,station,横浜市交通局
+node,7601124723,POINT (139.4832081 35.4034432),下飯田,Shimoiida,station,横浜市交通局
+node,7749849503,POINT (139.5536107 35.5680456),あざみ野,Azamino,station,横浜市交通局
+node,7749865377,POINT (139.5350787 35.4011056),戸塚,Totsuka,station,横浜市交通局
+node,7749865378,POINT (139.5113307 35.4111454),中田,Nakada,station,横浜市交通局
+node,7749869512,POINT (139.5699517 35.5629066),中川,Nakagawa,station,横浜市交通局
+node,7750187059,POINT (139.6120343 35.5274961),新羽,Nippa,station,横浜市交通局
+node,7750187061,POINT (139.5742694 35.5454101),センター南,Center Minami,station,横浜市交通局
+node,7750247043,POINT (139.6099757 35.429909),蒔田,Maita,station,横浜市交通局
+node,7750247044,POINT (139.6020598 35.4232893),弘明寺,Gumyoji,station,横浜市交通局
+node,7750247045,POINT (139.6173113 35.5088883),新横浜,Shin-yokohama,station,横浜市交通局
+node,7750247047,POINT (139.6128054 35.5192766),北新横浜,Kita-shin-yokohama,station,横浜市交通局
+node,7750338822,POINT (139.6238581 35.4584508),高島町,Takashimacho,station,横浜市交通局
+node,7750338823,POINT (139.630787 35.4496272),桜木町,Sakuragicho,station,横浜市交通局
+node,7750338824,POINT (139.6367037 35.44533),関内,Kannai,station,横浜市交通局
+node,7750338825,POINT (139.6327993 35.4410015),伊勢佐木長者町,Isezaki-chojamachi,station,横浜市交通局
+node,7750338826,POINT (139.6251489 35.4376268),阪東橋,Bandobashi,station,横浜市交通局
+node,7750342739,POINT (139.6168238 35.4961511),岸根公園,Kishine-koen,station,横浜市交通局
+node,7750342740,POINT (139.6056459 35.4764152),三ツ沢上町,Mitsuzawa-kamicho,station,横浜市交通局
+node,7750342741,POINT (139.6064834 35.4900761),片倉町,Katakuracho,station,横浜市交通局
+node,7750342742,POINT (139.6160911 35.4765085),三ツ沢下町,Mitsuzawa-shimocho,station,横浜市交通局
+node,7750342743,POINT (139.6201667 35.4653773),横浜,Yokohama,station,横浜市交通局
+node,7750348391,POINT (139.618715 35.4354327),吉野町,Yoshinocho,station,横浜市交通局
+node,7771245984,POINT (139.5401893 35.5148049),中山,Nakayama,station,横浜市交通局
+node,7772733582,POINT (139.5491324 35.5284609),川和町,Kawawacho,station,横浜市交通局
+node,7772737929,POINT (139.5612641 35.5365578),都筑ふれあいの丘,Tsuzuki-fureainooka,station,横浜市交通局
+node,7772745205,POINT (139.6464819 35.5534441),日吉,Hiyoshi,station,横浜市交通局
+node,7772745206,POINT (139.6336227 35.5500655),日吉本町,Hiyoshi-honcho,station,横浜市交通局
+node,7772745207,POINT (139.6200521 35.5496776),高田,Takata,station,横浜市交通局
+node,7772745208,POINT (139.6046897 35.554173),東山田,Higashi-yamata,station,横浜市交通局
+node,7772745209,POINT (139.5921504 35.5610885),北山田,Kita-yamata,station,横浜市交通局
+node,7804259443,POINT (139.6202973 35.4642692),横浜,Yokohama,station,相模鉄道
+node,7834937707,POINT (139.6729989 35.5004391),花月総持寺,Kagetsu-Sojiji,station,京浜急行電鉄
+node,7834937709,POINT (139.6780206 35.5072931),京急鶴見,Keikyu Tsurumi,station,京浜急行電鉄
+node,7834937710,POINT (139.6866962 35.5178357),鶴見市場,Tsurumi-ichiba,station,京浜急行電鉄
+node,7856115775,POINT (139.6509129 35.4421165),元町・中華街,Motomachi-chukagai,station,横浜高速鉄道
+node,7856115776,POINT (139.6426718 35.4467354),日本大通り,Nihon-odori,station,横浜高速鉄道
+node,7856115777,POINT (139.6362973 35.4501475),馬車道,Bashamichi,station,横浜高速鉄道
+node,7856115778,POINT (139.6328453 35.4572327),みなとみらい,Minatomirai,station,横浜高速鉄道
+node,7856115779,POINT (139.6266407 35.4619389),新高島,Shin-Takashima,station,横浜高速鉄道
+node,7856860987,POINT (139.6297275 35.367138),京急富岡,Keikyu Tomioka,station,京浜急行電鉄 (Keikyu Corporation)
+node,7856860988,POINT (139.6158364 35.383564),杉田,Sugita,station,京浜急行電鉄 (Keikyu Corporation)
+node,7856860990,POINT (139.6103847 35.3942114),屏風浦,Byobugaura,station,京浜急行電鉄 (Keikyu Corporation)
+node,7856860992,POINT (139.5966277 35.4090607),上大岡,Kamiooka,station,京浜急行電鉄
+node,7856860996,POINT (139.5967939 35.4243499),弘明寺,Gumyoji,station,京浜急行電鉄
+node,7856860997,POINT (139.6005383 35.4339314),井土ヶ谷,Idogaya,station,京浜急行電鉄
+node,7856860998,POINT (139.6131635 35.4368194),南太田,Minamiota,station,京浜急行電鉄
+node,7856861001,POINT (139.623152 35.4399236),黄金町,Koganecho,station,京浜急行電鉄
+node,7856861002,POINT (139.6267113 35.4455466),日ノ出町,Hinodecho,station,京浜急行電鉄
+node,7856861003,POINT (139.6195351 35.4567461),戸部,Tobe,station,京浜急行電鉄
+node,7856861004,POINT (139.6345454 35.477267),京急東神奈川,Keikyu Higashi-Kanagawa,station,京浜急行電鉄
+node,7857902092,POINT (139.6294203 35.3608505),能見台,Nokendai,station,京浜急行電鉄 (Keikyu Corporation)
+node,7967959831,POINT (139.6220811 35.466292),横浜,Yokohama,station,
+node,8026383420,POINT (139.6957044 35.4974338),浅野,Asano,station,東日本旅客鉄道
+node,8026383421,POINT (139.7008868 35.4996481),安善,Anzen,station,東日本旅客鉄道
+node,8026421430,POINT (139.700285 35.485904),海芝浦,Umi-Shibaura,station,東日本旅客鉄道
+node,8026421469,POINT (139.680911 35.4972947),鶴見小野,Tsurumiono,station,東日本旅客鉄道
+node,8026429248,POINT (139.7000251 35.4919545),新芝浦,Shin-Shibaura,station,東日本旅客鉄道
+node,8026433198,POINT (139.6893894 35.4957391),弁天橋,Bentembashi,station,東日本旅客鉄道
+node,8026435189,POINT (139.675399 35.5009768),国道,Kokudo,station,東日本旅客鉄道
+node,8317640068,POINT (139.4864894 35.558128),こどもの国,Kodomonokuni,station,東急電鉄
+node,10108140342,POINT (139.6361012 35.5358452),新綱島,Shin-Tsunashima,station,
+node,10312940095,POINT (139.5895987 35.4834108),横浜羽沢（貨）,,station,
+node,11329681981,POINT (139.6174221 35.5072282),新横浜,Shin-Yokohama,station,
+node,12209234608,POINT (139.4938262 35.532086),長津田,Nagatsuta,station,横浜高速鉄道
+node,12209234609,POINT (139.4939318 35.5319095),長津田,Nagatsuta,station,東京急行電鉄
